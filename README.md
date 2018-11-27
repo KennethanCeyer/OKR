@@ -8,10 +8,10 @@
 
 ### Key Results
 - Key1: Review 3 Research Paper of ML
-- Key2: Share the tech
+- Key2: Share the tech `8`
     - Share a tech presentation external `3`
     - Share a tech presentation internal `5`
-- Key3: Read a book enoughly
+- Key3: Read a book enoughly `6`
     - Read an ML book `1`
     - Read an Engineering book `2`
     - Read a General book `3`
