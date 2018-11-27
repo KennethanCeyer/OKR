@@ -4,7 +4,7 @@
 ## '18 4/4 quater
 
 ### Objective 1
-- Be the best Research Engineer
+- :trollface: Be the best Research Engineer
 
 ### Key Results
 - Key1: Review 3 Research Paper of ML
@@ -19,17 +19,17 @@
 ----
 
 ### Objective 2
-- Be a good team member
+- :neckbeard: Be a good team member
 
 ### Key Results
-- Key1: Share Golang language use-case and make gopherize inside of team (make `3` people as Gopher)
-- Key2: Communimate with team member more often (present: 1 per week, objective: `3` per week)
+- Key1: Share Golang language use-case and make Gopher inside of team (make `3` people as Gopher)
+- Key2: Communicate with team member more often (present: 1 per week, objective: `3` per week)
 - Key3: Reviewing more code (present: 1-2 per day, objective: `5-8` per day)
 
 ----
 
 ### Objective 3
-- Launching service successfully
+- :four_leaf_clover: Launching the service successfully
 
 ### Key Results
 - Key1: Increase Test coverage over than `60%`
