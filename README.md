@@ -4,7 +4,7 @@
 ## '18 4/4 quater
 
 ### Objective 1
-- :trollface: Be the best Research Engineer
+- :microscope: Be the best Research Engineer
 
 ### Key Results
 - Key1: Review 3 Research Paper of ML
