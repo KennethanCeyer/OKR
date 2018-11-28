@@ -7,7 +7,7 @@
 - :microscope: Be the best Research Engineer
 
 ### Key Results
-- Key1: Review 3 Research Paper of ML
+- Key1: Review `3` Research Paper of ML
 - Key2: Share the tech `8`
     - Share a tech presentation external `3`
     - Share a tech presentation internal `5`
