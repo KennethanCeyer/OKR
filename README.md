@@ -1,6 +1,42 @@
 # OKR (Objective and Key Result)
 > :package: Personal OKR for improving self
 
+## '19 2/4 quater
+
+### Objective 1
+- :microscope: To be a best Research Engineer
+
+### Key Results
+- Key1: Review `3` Research Papers
+- Key2: Share the tech `10`
+    - Share a tech presentation external `2`
+    - Share a tech presentation internal `4`
+    - Post a translated blog posts
+- Key3: Read a blog posts enoughly `5`
+    - Read an English posts `3`
+    - Read an Korean posts `2`
+
+----
+
+### Objective 2
+- :neckbeard: Become a reliable server engineer
+
+### Key Results
+- Key1: Cover each project codes under unit test code (average over 75%)
+- Key2: Maintain task processing rate over 30 per sprint
+- Key3: Maintain the total downtime under 3h of most projects
+
+----
+
+### Objective 3
+- :trollface: Launching the service successfully
+
+### Key Results
+- Key1: Increase Test coverage over than `60%`
+- Key2: Migrate service as real service `90%` (`real`/`total(dev + real)`)
+- Key3: Merging a lot of pull-request more than `8` per day
+
+
 ## '18 4/4 quater
 
 ### Objective 1
@@ -29,9 +65,9 @@
 ----
 
 ### Objective 3
-- :four_leaf_clover: Launching the service successfully
+- :four_leaf_clover: Deep dive into Open Source World
 
 ### Key Results
-- Key1: Increase Test coverage over than `60%`
-- Key2: Migrate service as real service `90%` (`real`/`total(dev + real)`)
-- Key3: Merging a lot of pull-request more than `8` per day
+- Key1: Make a PR for Mozilla foundataion's project `1`
+- Key2: Make CoC for local own organization `1`
+- Key3: Make the company's new channel and gather members more than `10`
