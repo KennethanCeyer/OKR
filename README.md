@@ -22,9 +22,9 @@
 - :neckbeard: Become a reliable server engineer
 
 ### Key Results
-- Key1: Cover each project codes under unit test code (average over 75%)
-- Key2: Maintain task processing rate over 30 per sprint
-- Key3: Maintain the total downtime under 3h of most projects
+- Key1: Cover each project codes under unit test code (average over `75%`)
+- Key2: Maintain task processing rate over `30` per sprint
+- Key3: Maintain the total downtime under `3h` of most projects
 
 ----
 
