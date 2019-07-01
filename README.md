@@ -1,6 +1,17 @@
 # OKR (Objective and Key Result)
 > :package: Personal OKR for improving self
 
+## '19 3/4 quater
+
+### Objective 1
+- :microscope: Improve researching skills, Deep dive into OSS
+
+### Objective 2
+- :tada: Welcoming for a lot of people, Join deep into community
+
+### Objective 3
+- :four_leaf_clover: Be a good team member, Organizing a good culture for the company
+
 ## '19 2/4 quater
 
 ### Objective 1
