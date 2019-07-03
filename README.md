@@ -6,11 +6,34 @@
 ### Objective 1
 - :microscope: Improve researching skills, Deep dive into OSS
 
+### Key Results
+
+- Making at least `3` a pull request for a big (more than `3,000` stars) open source project, and accept to merge
+- Try to make `1` new open source an get `300` stars
+- Making a small review channel, and code review `3` of open source project to the people
+
+----
+
 ### Objective 2
 - :tada: Welcoming for a lot of people, Join deep into community
 
+### Key Results
+
+- Writing a blog post at least `1` by a month
+- Speaking the presentation in the community at least `3` for this quarter
+- Making at least `3` party of community
+- Read `30` raddit articles, `20` blogs posts, `10` research papers on the internet 
+
+----
+
 ### Objective 3
 - :four_leaf_clover: Be a good team member, Organizing a good culture for the company
+
+### Key Results
+
+- To do continuable monthly, At least `1` activity, `1` internal study session, `1` presentation day
+- Making development `1` communication channel, for a team and division which i belonged
+- Sharing `5` new tech news for team members by each month
 
 ## '19 2/4 quater
 
@@ -46,7 +69,6 @@
 - Key1: Increase Test coverage over than `60%`
 - Key2: Migrate service as real service `90%` (`real`/`total(dev + real)`)
 - Key3: Merging a lot of pull-request more than `8` per day
-
 
 ## '18 4/4 quater
 
