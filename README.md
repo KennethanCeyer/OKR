@@ -1,16 +1,45 @@
 # OKR (Objective and Key Result)
 > :package: Personal OKR for improving self
 
+## '19 4/4 quater
+
+### Objective 1
+- :computer: To be opened to OSS and networking
+
+### Key Results
+- Key 1: Apply a ticket or pull request at least `1` to open source foundation
+- Key 2: Join or Maintain conference or meetup over than `3`
+- Key 3: Review the codes on online at least over than `30`
+
+----
+
+### Objective 2
+- :black_nib: Extend & Share the insights
+
+### Key Results
+- Key 1: Read over `5` blog posts per days
+- Key 2: Post blog `3` articles per weeks
+- Key 3: Read `1` research papers per weeks
+
+----
+
+### Objective 3
+- :tennis: To be healther
+
+### Key Results
+- Key 1: over `200` weights for `3` main weight trainings
+- Key 2: gain over `3cm` arms and `5kg` muscles
+- Key 3: Walk average `10,000` per days
+
 ## '19 3/4 quater
 
 ### Objective 1
 - :microscope: Improve researching skills, Deep dive into OSS
 
 ### Key Results
-
-- Making at least `3` a pull request for a big (more than `3,000` stars) open source project, and accept to merge
-- Try to make `1` new open source an get `300` stars
-- Making a small review channel, and code review `3` of open source project to the people
+- Key 1: Making at least `3` a pull request for a big (more than `3,000` stars) open source project, and accept to merge
+- Key 2: Try to make `1` new open source an get `300` stars
+- Key 3: Making a small review channel, and code review `3` of open source project to the people
 
 ----
 
@@ -18,11 +47,10 @@
 - :tada: Welcoming for a lot of people, Join deep into community
 
 ### Key Results
-
-- Writing a blog post at least `1` by a month
-- Speaking the presentation in the community at least `3` for this quarter
-- Making at least `3` party of community
-- Read `30` raddit articles, `20` blogs posts, `10` research papers on the internet 
+- Key 1: Writing a blog post at least `1` by a month
+- Key 2: Speaking the presentation in the community at least `3` for this quarter
+- Key 3: Making at least `3` party of community
+- Key 4: Read `30` raddit articles, `20` blogs posts, `10` research papers on the internet 
 
 ----
 
@@ -30,10 +58,9 @@
 - :four_leaf_clover: Be a good team member, Organizing a good culture for the company
 
 ### Key Results
-
-- To do continuable monthly, At least `1` activity, `1` internal study session, `1` presentation day
-- Making development `1` communication channel, for a team and division which i belonged
-- Sharing `5` new tech news for team members by each month
+- Key 1: To do continuable monthly, At least `1` activity, `1` internal study session, `1` presentation day
+- Key 2: Making development `1` communication channel, for a team and division which i belonged
+- Key 3: Sharing `5` new tech news for team members by each month
 
 ## '19 2/4 quater
 
