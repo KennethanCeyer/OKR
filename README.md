@@ -4,7 +4,7 @@
 ## '20 1/4 quater
 
 ### Objective 1
-- Get to know OSS a bit more.
+- :neckbeard: Get to know OSS a bit more.
 
 ### Key Results
 - Key 1: Apply a ticket or pull request at least `1` to the big open source foundation
@@ -15,7 +15,7 @@
 ---
 
 ### Objective 2
-- Get more people's knowledge.
+- :man_student: Get more people's knowledge.
 
 ### Key Results
 - Key 1: Read more than `5` books
@@ -25,7 +25,7 @@
 ---
 
 ### Objective 3
-- Become a team member for the team.
+- :wave: Become a team member for the team.
 
 ### Key Results
 - Key 1: Talking over `100` sentences a day
