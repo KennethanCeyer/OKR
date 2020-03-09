@@ -20,7 +20,7 @@
 ### Key Results
 - Key 1: Read more than `5` books
 - Key 2: Analyze more than `10` open source projects
-- Key 3: Read more than 5 blog articles every day
+- Key 3: Read more than `5` blog articles every day
 
 ---
 
