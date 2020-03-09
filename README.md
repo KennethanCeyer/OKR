@@ -1,6 +1,37 @@
 # OKR (Objective and Key Result)
 > :package: Personal OKR for improving self
 
+## '20 1/4 quater
+
+### Objective 1
+- Get to know OSS a bit more.
+
+### Key Results
+- Key 1: Apply a ticket or pull request at least `1` to the big open source foundation
+- Key 2: Working with `3` open source projects
+- Key 3: Do more than `100` code reviews
+- Key 4: Analyze more than `1` GSoC projects
+
+---
+
+### Objective 2
+- Get more people's knowledge.
+
+### Key Results
+- Key 1: Read more than `5` books
+- Key 2: Analyze more than `10` open source projects
+- Key 3: Read more than 5 blog articles every day
+
+---
+
+### Objective 3
+- Become a team member for the team.
+
+### Key Results
+- Key 1: Talking over `100` sentences a day
+- Key 2: Offer breakthrough suggestions more than `1` a month
+- Key 3: Talk about technology topics while tea time with a new person over than `1` a week
+
 ## '19 4/4 quater
 
 ### Objective 1
