@@ -24,7 +24,7 @@
 ---
 
 ### Objective 3
-- :muscle: ore agile, faster.
+- :muscle: Become more agile, faster.
 
 ### Key Results
 - Key 1: Weight loss over `12`kg.
