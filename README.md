@@ -4,32 +4,32 @@
 ## '20 2/4 quater
 
 ### Objective 1
-- :whale: Open source deep dive.
+- :whale: Open source deep dive
 
 ### Key Results
-- Key 1: Create or maintain projects written in `3` or more Rust languages.
-- Key 2: More than `10` PRs and merges for more than `5,000` stars of open source.
-- Key 3: At least `1` commit per day (no miss).
+- Key 1: Create or maintain projects written in `3` or more Rust languages
+- Key 2: More than `10` PRs and merges for more than `5,000` stars of open source
+- Key 3: At least `1` commit per day (no miss)
 
 ---
 
 ### Objective 2
-- :sparkles: Become proficient in language.
+- :sparkles: Become proficient in language
 
 ### Key Results
-- Key 1: Japanese memorization of over `50` Kanjis and over `20` Kanji words every day.
-- Key 2: Read more than `1` BBC daily.
-- Key 3: Translation of more than `2` technical documents per week Markdown.
+- Key 1: Japanese memorization of over `50` Kanjis and over `20` Kanji words every day
+- Key 2: Read more than `1` BBC daily
+- Key 3: Translation of more than `2` technical documents per week Markdown
 
 ---
 
 ### Objective 3
-- :muscle: Become more agile, faster.
+- :muscle: Become more agile, faster
 
 ### Key Results
-- Key 1: Weight loss over `12`kg.
-- Key 2: Reached chin up `10` times or more.
-- Key 3: Reaching `80`kg deadlift, `90`kg squat, `65`kg bench.
+- Key 1: Weight loss over `12`kg
+- Key 2: Reached chin up `10` times or more
+- Key 3: Reaching `80`kg deadlift, `90`kg squat, `65`kg bench
 
 ## '20 1/4 quater
 
