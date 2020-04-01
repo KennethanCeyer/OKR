@@ -17,7 +17,7 @@
 - :sparkles: Become proficient in language.
 
 ### Key Results
-- Key 1: Japanese memorization of over 50 Kanjis and over 20 Kanji words every day.
+- Key 1: Japanese memorization of over `50` Kanjis and over `20` Kanji words every day.
 - Key 2: Read more than `1` BBC daily.
 - Key 3: Translation of more than `2` technical documents per week Markdown.
 
