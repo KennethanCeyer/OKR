@@ -1,6 +1,32 @@
 # OKR (Objective and Key Result)
 > :package: Personal OKR for improving self
 
+## '20 3/4 quater
+
+### Objective 1
+- :neckbeard: To be a hacker of the algorithms
+
+### Key Results
+- Key 1: Solve the daily algorithm `1` per day
+- Key 2: Solve `3` hard problems per month
+- Key 3: Join `3` algorithm content per month
+
+---
+
+### Objective 2
+- :runner: To be quick and agile (literally)
+
+### Key Results
+- Key 1: Lose a weight over `10kg`
+- Key 2: Do `10` chins every week
+- Key 3: Do more than `100 squats` a week
+
+---
+
+### Objective 3
+
+- I'm thinking!
+
 ## '20 2/4 quater
 
 ### Objective 1
