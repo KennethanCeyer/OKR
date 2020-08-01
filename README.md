@@ -24,8 +24,12 @@
 ---
 
 ### Objective 3
+- :rocket: Successfully publishing your blog project
 
-- I'm thinking!
+### Key Results
+- Key 1: `1` Beta project released to the community
+- Key 2: `50%` of blog implementation features
+- Key 3: Regular meetings `1` every other week, pair programming `1` a week for project progress
 
 ## '20 2/4 quater
 
