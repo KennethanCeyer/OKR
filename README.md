@@ -1,6 +1,17 @@
 # OKR (Objective and Key Result)
 > :package: Personal OKR for improving self
 
+## '20 4/4 quater
+
+### Objective 1
+- To have a deep insight on the career path
+
+### Objective 2
+- To look into the variant domain of ML/DL
+
+### Objective 3
+- To be healthy
+
 ## '20 3/4 quater
 
 ### Objective 1
