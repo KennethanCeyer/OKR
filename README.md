@@ -4,13 +4,36 @@
 ## '20 4/4 quater
 
 ### Objective 1
-- To have a deep insight on the career path
+- :pencil2: Writing a lot
+
+### Key Results
+
+- Key 1: Write `1` article on the famous tech blog
+- Key 2: Adjust `8` parts about the book draft
+- Key 3: Write `4` posts on the blog
+- Key 4: Record `1` video on Youtube
+
+---
 
 ### Objective 2
-- To look into the variant domain of ML/DL
+- :telescope: Looking into the variant domain of ML/DL
+
+### Key Results
+
+- Key 1: Subscribing to `2` or more papers per week
+- Key 2: Implementation of a total of `2` paper's codes
+- Key 3: Presentation about `1` AI research paper
+
+---
 
 ### Objective 3
-- To be healthy
+- :muscle: Be healthy
+
+### Key Results
+
+- Key 1: Lose a weight around `10kg`
+- Key 2: Maintain a diet diet for more than `60 days`
+- Key 3: Do not eat chicken more than `1 times` per month
 
 ## '20 3/4 quater
 
