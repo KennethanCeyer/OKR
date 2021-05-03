@@ -1,7 +1,25 @@
 # OKR (Objective and Key Result)
 > :package: Personal OKR for improving self
 
-## '20 4/4 quater
+## '21 1Q
+
+### Objective 1
+- New challenge
+
+### Key Results
+
+- Key 1: Moving to a new location `1` place
+- Key 2: Moving to a new company `1` another company
+- Key 3: Starting `3` new projects
+
+### Objective 2
+- Expanding community activities
+
+### Key Results
+
+- Key 1: 
+
+## '20 4Q
 
 ### Objective 1
 - :pencil2: Writing a lot
@@ -35,7 +53,7 @@
 - Key 2: Maintain a diet diet for more than `60 days`
 - Key 3: Do not eat chicken more than `1 times` per month
 
-## '20 3/4 quater
+## '20 3Q
 
 ### Objective 1
 - :neckbeard: To be a hacker of the algorithms
@@ -65,7 +83,7 @@
 - Key 2: `50%` of blog implementation features
 - Key 3: Regular meetings `1` every other week, pair programming `1` a week for project progress
 
-## '20 2/4 quater
+## '20 2Q
 
 ### Objective 1
 - :whale: Open source deep dive
@@ -95,7 +113,7 @@
 - Key 2: Reached chin up `10` times or more
 - Key 3: Reaching `80`kg deadlift, `90`kg squat, `65`kg bench
 
-## '20 1/4 quater
+## '20 1Q
 
 ### Objective 1
 - :neckbeard: Get to know OSS a bit more.
@@ -126,7 +144,7 @@
 - Key 2: Offer breakthrough suggestions more than `1` a month
 - Key 3: Talk about technology topics while tea time with a new person over than `1` a week
 
-## '19 4/4 quater
+## '19 4Q
 
 ### Objective 1
 - :computer: To be opened to OSS and networking
@@ -156,7 +174,7 @@
 - Key 2: gain over `3cm` arms and `5kg` muscles
 - Key 3: Walk average `10,000` per days
 
-## '19 3/4 quater
+## '19 3Q
 
 ### Objective 1
 - :microscope: Improve researching skills, Deep dive into OSS
@@ -187,7 +205,7 @@
 - Key 2: Making development `1` communication channel, for a team and division which i belonged
 - Key 3: Sharing `5` new tech news for team members by each month
 
-## '19 2/4 quater
+## '19 2Q
 
 ### Objective 1
 - :microscope: To be a best Research Engineer
@@ -222,7 +240,7 @@
 - Key2: Migrate service as real service `90%` (`real`/`total(dev + real)`)
 - Key3: Merging a lot of pull-request more than `8` per day
 
-## '18 4/4 quater
+## '18 4Q
 
 ### Objective 1
 - :microscope: To be a best Research Engineer
