@@ -1,6 +1,39 @@
 # OKR (Objective and Key Result)
 > :package: Personal OKR for improving self
 
+## '21 2Q
+
+### Objective 1
+- Participation in the open source ecosystem
+
+### Key Results
+
+- Key 1: Open source contribution through PR at least `1` a week
+- Key 2: `2` new open source projects in progress
+- Key 3: Participate in `3` or more open source support events
+
+---
+
+### Objective 2
+- Community growth
+
+### Key Results
+
+- Key 1: Securing `3` sponsors
+- Key 2: Hosted `3` cooperative meetups
+- Key 3: Recruitment of `1` management staff
+
+---
+
+### Objective 3
+- Become a better engineer
+
+### Key Results
+
+- Key 1: Read more than `1` book per month
+- Key 2: Read more than 2 papers per month
+- Key 3: Communicate with more than `20` staff every day
+
 ## '21 1Q
 
 ### Objective 1
@@ -12,12 +45,27 @@
 - Key 2: Moving to a new company `1` another company
 - Key 3: Starting `3` new projects
 
+---
+
 ### Objective 2
 - Expanding community activities
 
 ### Key Results
 
-- Key 1: 
+- Key 1: More than `1` event per month
+- Key 2: At least `1` executive meeting per quarter
+- Key 3: Community expansion of `10%` or more every quarter
+
+---
+
+### Objective 3
+- Overseas turnover
+
+### Key Results
+
+- Key 1: At least 10 minutes of English conversation at least `3` times a week
+- Key 2: Solve algorithmic problems `1` a day
+- Key 3: English interview at least `1` a month
 
 ## '20 4Q
 
