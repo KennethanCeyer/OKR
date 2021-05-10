@@ -8,9 +8,9 @@
 
 ### Key Results
 
-- Key 1: Open source contribution through PR at least `1` a week
-- Key 2: `2` new open source projects in progress
-- Key 3: Participate in `3` or more open source support events
+- Key 1: Selected as a contributor for `1` GSoC project
+- Key 2: Achieve `500` GitHub stars
+- Key 3: Selected as a presenter at `1` conference with open source material
 
 ---
 
@@ -20,8 +20,8 @@
 ### Key Results
 
 - Key 1: Securing `3` sponsors
-- Key 2: Hosted `3` cooperative meetups
-- Key 3: Recruitment of `1` management staff
+- Key 2: Inflow of `1` additional staff
+- Key 3: Inflow of `15` presenters
 
 ---
 
@@ -30,9 +30,9 @@
 
 ### Key Results
 
-- Key 1: Read more than `1` book per month
-- Key 2: Read more than 2 papers per month
-- Key 3: Communicate with more than `20` staff every day
+- Key 1: Achieved the `highest` score in recognition of company performance
+- Key 2: Receive `3` or more offers
+- Key 3: Ranked `3rd` in the popularity ranking of published books
 
 ## '21 1Q
 
